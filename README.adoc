@@ -1,4 +1,4 @@
-= Antora Default UI
+= Custom Antora UI
 // Settings:
 :experimental:
 :hide-uri-scheme:
@@ -18,7 +18,7 @@
 :url-nvm: https://github.com/creationix/nvm
 :url-nvm-install: {url-nvm}#installation
 
-image:{img-ci-status}[CI Status (GitLab CI), link={url-ci-pipelines}]
+**This is a fork of the antora default ui**
 
 This project is an archetype that demonstrates how to produce a UI bundle that can be used by {url-antora}[Antora] to generated a documentation site.
 You can see a preview of the default UI at {url-preview}.
